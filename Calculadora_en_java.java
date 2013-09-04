@@ -20,7 +20,7 @@ public class Calculadora extends JFrame {
     private String [] botmsg = {"x²","n!","MC","MR","MS","M+","M-","x^y","y\u221Ax","←","CE","C","+-","\u221A","x^3","3\u221Ax","7","8","9","/","%",
     		"log","10^x","4","5","6","*","1/x","sin","cos","1","2","3","-","+","exp","tan","0",".","Mod","\u03c0","="};
     
-    
+    // aqui usamos string
     private String texto = "";
     private boolean bPunto = true;   //bandera de punto
     private double op1,op2,res,memoria;
