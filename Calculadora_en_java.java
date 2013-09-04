@@ -10,6 +10,8 @@ import java.io.*;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 
+// esta es una calculadora
+
 public class Calculadora extends JFrame {
 	private static final long serialVersionUID = 1L;
     private JTextField despliega = new JTextField("0");
